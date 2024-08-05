@@ -1,0 +1,7 @@
+npm install @angular-devkit/build-angular@^18.0.0 --force
+
+npm install @angular-builders/jest --save-dev --force
+
+npm install @angular-builders/jest@17 jest @types/jest --save-dev --force
+
+ng add @briebug/jest-schematic --force
